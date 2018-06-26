@@ -169,7 +169,7 @@
 		}
 
 		a:hover {
-			color: #ff7496;
+			color: ##3498DB;
 		}
 
 	strong, b {
@@ -546,7 +546,7 @@
 					}
 
 					ul.icons li a:hover:before {
-						text-shadow: 1.25px 0px 0px #ff7496, -1.25px 0px 0px #ff7496, 0px 1.25px 0px #ff7496, 0px -1.25px 0px #ff7496;
+						text-shadow: 1.25px 0px 0px #3498DB, -1.25px 0px 0px #3498DB, 0px 1.25px 0px #3498DB, 0px -1.25px 0px #3498DB;
 					}
 
 					ul.icons li a:before {
@@ -562,8 +562,12 @@
 					}
 
 					ul.icons li a:hover {
-						border-color: #ff7496;
+						border-color: #3498DB;
 					}
+
+.resume {
+	font-size:8em;
+}
 
 			@media screen and (max-width: 480px) {
 
@@ -636,8 +640,8 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: #ff7496;
-			color: #ff7496 !important;
+			border-color: #85C1E9;
+			color: #85C1E9 !important;
 		}
 
 		input[type="submit"].icon,
